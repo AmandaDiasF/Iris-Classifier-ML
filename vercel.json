@@ -1,0 +1,13 @@
+{
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/api/predict",
+      "destination": "https://mlteste-a5akend9ach6c3h0.westus3-01.azurewebsites.net/api/predict"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

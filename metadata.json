@@ -1,0 +1,6 @@
+{
+  "name": "Iris Classifier ML Dashboard",
+  "description": "Dashboard interativo para classificação de espécies da flor Iris via Machine Learning API na Azure, com histórico, análise morfológica e guias de deploy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
